@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Title from './Components/Title';
 import Color from './Components/Color';
-import Gradient from './Components/Gradient';
+import GradientGenerator from './Components/GradientGenerator';
 import Rotation from './Components/Rotation';
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
         </div>
 
         <div>
-          <Gradient/>
+          <GradientGenerator/>
         </div>
 
       </div>

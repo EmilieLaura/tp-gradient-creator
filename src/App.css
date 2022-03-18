@@ -8,7 +8,7 @@
 }
 
 h1 {
-  margin: 100px 0px;
+  margin: 70px 0px;
 }
 
 .block-selection {
@@ -17,7 +17,6 @@ h1 {
   align-items: center;
   padding: 20px;
   border-radius: 15px;
-  border: 1px solid rgb(168, 168, 168);
 }
 
 .block-selection p:nth-child(2) {
@@ -31,8 +30,8 @@ h1 {
 .color-block {
   width: 100px;
   height: 100px;
-  border: 1px solid rgb(168, 168, 168);
   border-radius: 50%;
+  margin-bottom: 20px;
 }
 
 .block-result {
